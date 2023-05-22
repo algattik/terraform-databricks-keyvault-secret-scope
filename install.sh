@@ -14,7 +14,7 @@ popd
 
 # Databricks CLI profile in which the AAD token is configured.
 
-export TF_VAR_databricks_cli_profile=adbobs_cli_profile
+export TF_VAR_databricks_cli_profile=dbdemo_cli_profile
 
 # Ensure the user is logged in with a User account (not a service principal).
 # Databricks CLI AAD token configuration requires a User account.
