@@ -12,6 +12,8 @@ Run:
 ./install.sh
 ```
 
+When prompted (twice), answer `yes`.
+
 ⚠️ This sets up a cluster of one node, and a recurring job every minute, so that the cluster never automatically shuts down. This will incur high costs if you forget to tear down the resources!
 
 ## About the solution
